@@ -1,0 +1,8 @@
+.box{
+    border: 1px solid plum;
+    height: 100px;
+    background: #eee;
+}
+.box-new{
+    border: 1px solid springgreen;
+}
